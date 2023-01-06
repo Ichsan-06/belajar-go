@@ -1,3 +1,3 @@
-module github.com/Ichsan-06/belajar-modules-go.git
+module github.com/Ichsan-06/belajar-modules-go
 
 go 1.19
